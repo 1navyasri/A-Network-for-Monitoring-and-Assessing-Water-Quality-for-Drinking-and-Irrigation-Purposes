@@ -1,0 +1,2 @@
+# A-Network-for-Monitoring-and-Assessing-Water-Quality-for-Drinking-and-Irrigation-Purposes
+This project aims to develop an intelligent and real-time monitoring system, Water Net, that assesses water quality for both drinking and irrigation. It leverages sensor networks, machine learning algorithms, and web technologies to analyze key water quality parameters and provide insights for proactive management.
